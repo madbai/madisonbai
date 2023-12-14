@@ -1,11 +1,27 @@
 ---
-title: "madisonbai"
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/madbai
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/madisonbai/
+    - icon: envelope
+      text: Email
+      href: "mailto:madison.e.bai@colostate.edu"  
 ---
 
-This is a Quarto website.
+::: {#about-block}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Welcome!
 
-```{r}
-1 + 1
-```
+I am a Professional Science Master's student in Ecosystem Science and Sustainability at Colorado State University with a concentration in Sustainable Food Systems. I am currently taking courses in R Programming Language, Water Resource Management, Environmental Data Science, Food Systems, and Life Cycle Assessment. I am interested in the Water-Energy-Food Nexus and how this plays out in agrivoltaic systems.\
+\
+Additionally, I have 6 years experience working abroad in primary, secondary, and tertiary schools. I hold TESOL certification from Arizona State University and American Board Certification of Teacher Excellence in Elementary Education. I am multilingual professional with a minor in German and Japanese Language Proficiency Test N3. I earned a Bachelor of Arts in Business Global Politics from Arizona State University - W. P. Carey School of Business.
+
+On this website, you will find my projects and cv. I invite you to explore my website and learn more about my work. Please feel free to [contact me](mailto:madison.e.bai@gmail.com) if you have any questions or would like to discuss potential opportunities.

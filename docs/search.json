@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "madisonbai",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This case study was developed as a part of ESS 501: Principles of Ecosystem Sustainability at Colorado State University (CSU). Dr. Greg Newman, co-founder and director of CitSci, and Dr. Stacy Lynn, director of research and education at CitSci, were the primary CitSci stakeholders in the development of this case study. The CitSci stakeholders articulated their goal to be the operationalization of a Participatory Science Campus at CSU and beyond. To assist in the achievement of this goal, the focus of this case study became to research and develop a framework by which interested parties could independently implement successful participatory science projects. Thus, the principal deliverable was the creation of a user-friendly and comprehensive framework that would streamline the project process.\n\n\nView ESRI Story Map\n\n\nView Operationalized Framework"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects/index.html#citizen-science-case-study",
+    "href": "projects/index.html#citizen-science-case-study",
+    "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This case study was developed as a part of ESS 501: Principles of Ecosystem Sustainability at Colorado State University (CSU). Dr. Greg Newman, co-founder and director of CitSci, and Dr. Stacy Lynn, director of research and education at CitSci, were the primary CitSci stakeholders in the development of this case study. The CitSci stakeholders articulated their goal to be the operationalization of a Participatory Science Campus at CSU and beyond. To assist in the achievement of this goal, the focus of this case study became to research and develop a framework by which interested parties could independently implement successful participatory science projects. Thus, the principal deliverable was the creation of a user-friendly and comprehensive framework that would streamline the project process.\n\n\nView ESRI Story Map\n\n\nView Operationalized Framework"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome!\nI am a Professional Science Master’s student in Ecosystem Science and Sustainability at Colorado State University with a concentration in Sustainable Food Systems. I am currently taking courses in R Programming Language, Water Resource Management, Environmental Data Science, Food Systems, and Life Cycle Assessment. I am interested in the Water-Energy-Food Nexus and how this plays out in agrivoltaic systems.\n\nAdditionally, I have 6 years experience working abroad in primary, secondary, and tertiary schools. I hold TESOL certification from Arizona State University and American Board Certification of Teacher Excellence in Elementary Education. I am multilingual professional with a minor in German and Japanese Language Proficiency Test N3. I earned a Bachelor of Arts in Business Global Politics from Arizona State University - W. P. Carey School of Business.\nOn this website, you will find my projects and cv. I invite you to explore my website and learn more about my work. Please feel free to contact me if you have any questions or would like to discuss potential opportunities."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
   }
 ]
