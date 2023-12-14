@@ -2,11 +2,13 @@
 title: Projects
 ---
 
-## Citizen Science Case Study 
+## Citizen Science Case Study
 
 ![](PoweredByCitSci-v2-black.png){fig-align="center"}
 
 This case study was developed as a part of ESS 501: Principles of Ecosystem Sustainability at Colorado State University (CSU). [Dr. Greg Newman](https://www.nrel.colostate.edu/investigator/greg-newman-homepage/), co-founder and director of [CitSci](https://citsci.org/about), and [Dr. Stacy Lynn](https://www.nrel.colostate.edu/investigator/stacy-lynn-homepage/), director of research and education at CitSci, were the primary CitSci stakeholders in the development of this case study. The CitSci stakeholders articulated their goal to be the operationalization of a Participatory Science Campus at CSU and beyond. To assist in the achievement of this goal, the focus of this case study became to research and develop a framework by which interested parties could independently implement successful participatory science projects. Thus, the principal deliverable was the creation of a user-friendly and comprehensive framework that would streamline the project process.
+
+This case study was completed in collaboration with fellow graduate students Cristal Dominguez-Vasquez, Marilla Havens, and Cody Wilkinson.
 
 ------------------------------------------------------------------------
 
